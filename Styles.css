@@ -1,0 +1,26 @@
+.Triangulo{
+width: 0px;
+height:0px ;
+border-left :100px solid transparent;
+border-right:100px solid transparent;
+border-top:100px solid pink;
+}
+
+.Circulo {
+    background-color:red;
+    width:300px;
+    height:300px; 
+    border-radius: 100%
+    }
+
+.Cuadrado {
+background-color: green;
+width:300px;
+height:300px; 
+}
+
+h2{
+    color: slateblue 
+     }
+
+
